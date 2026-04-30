@@ -6,3 +6,6 @@ Currently it is setup for 5 volume sliders and 10 buttons, however the buttons d
 Here is an example of the serial data the windows app looks for
 
 ![Serial Data example](Example%20serial%20data.png)
+
+This is my Volume mixer unit
+![MixerBox](MixerBox.jpg)
